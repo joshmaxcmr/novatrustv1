@@ -188,23 +188,15 @@ MIFOS_USERNAME=username
 MIFOS_PASSWORD=password
 ```
 
-## 🤝 Contribution
 
-1. Fork le projet
-2. Créer une branche (`git checkout -b feature/amazing-feature`)
-3. Commit les changements (`git commit -m 'Add amazing feature'`)
-4. Push vers la branche (`git push origin feature/amazing-feature`)
-5. Ouvrir une Pull Request
 
-## 📄 Licence
 
-Ce projet est sous licence MIT. Voir le fichier `LICENSE` pour plus de détails.
 
 ## 📞 Support
 
 Pour toute question ou support:
 - Email: contact@novatrust.com
-- Téléphone: +237 600 000 000
+
 
 ---
 
